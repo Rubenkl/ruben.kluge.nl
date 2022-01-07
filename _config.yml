@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Ruben Kluge
+bio:                'Ruben Kluge is a Product Manager & Machine Learning Engineer with a background in healthcare and computer vision.'
+description:        "Ruben Kluge is a Product Manager & Machine Learning Engineer with a background in healthcare and computer vision."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://ruben.kluge.nl" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
@@ -12,9 +12,8 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+github:             Rubenkl
+linkedin:           "https://www.linkedin.com/in/ruben-kluge-21472496/"
 
 # personal
 location:           Los Angeles, CA
