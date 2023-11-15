@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bridging gaps: how OpenAI fuses research with product innovation"
-date: 2023-11-15 22:00:00 +0000
+date: 2023-11-15 08:00:00 +0000
 categories: productmanagement, leadership
 excerpt: "OpenAI's blend of AI research and product innovation, and how this approach is shaping the future of user-focused, effective AI solutions. And some of my own takes."
 image: "/images/openai.png"
