@@ -11,35 +11,59 @@ Keywords: AI, startup, research, product development, machine learning, OpenAI
 
   
 
-# Video: How OpenAI Fuses Research with Product Innovation
+## Video: How OpenAI Fuses Research with Product Innovation
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YXiRbRacTF0?si=VAqT3GKYm1rg1u2z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   
 
-## Key take-aways
+### Key take-aways
 
-- What contributed to the popularity of ChatGPT?
-    - **General capabilities** of models, contrasting with traditional models that are highly task-specific
-    - **Simple interfaces**. Meets users at their level of information processing and knowledge creation.
-- Research x Product collaboration
-    - Direct feedback loop: Product provides a direct feedback loop for research, using UX features such as the thumbs up/thumbs down buttons.
-    - Importance of product input in making research more applicable and user-focused
-        - Work closely together, contrary to 'traditional' setups where ML engineers throw a model over the fence to product
-- Defining success
-    - There is lots of discussions around ambiguity.
-        - what if the model is worse in physics, but better in biology?
-        - What users want is subjective
-- The future
-    - AI models will be personalized to you
-        - OpenAI already does this using custom instructions, different profiles using different use cases (i.e. using their GPTs)
-    - Models become multi-modal, encompassing all types of data (sound, text, images).
-    - More interfaces, not only text, to meet people where they are at in processing and creating knowledge
-    - Smarter models. Expansion to be more helpful in other areas with harder tasks: mathematics, scientific discoveries
+<ul>
+    <li>What contributed to the popularity of ChatGPT?
+        <ul>
+            <li><strong>General capabilities</strong> of models, contrasting with traditional models that are highly task-specific</li>
+            <li><strong>Simple interfaces</strong>. Meets users at their level of information processing and knowledge creation.</li>
+        </ul>
+    </li>
+    <li>Research x Product collaboration
+        <ul>
+            <li>Direct feedback loop: Product provides a direct feedback loop for research, using UX features such as the thumbs up/thumbs down buttons.</li>
+            <li>Importance of product input in making research more applicable and user-focused
+                <ul>
+                    <li>Work closely together, contrary to 'traditional' setups where ML engineers throw a model over the fence to product</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>Defining success
+        <ul>
+            <li>There is lots of discussions around ambiguity.
+                <ul>
+                    <li>what if the model is worse in physics, but better in biology?</li>
+                    <li>What users want is subjective</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>The future
+        <ul>
+            <li>AI models will be personalized to you
+                <ul>
+                    <li>OpenAI already does this using custom instructions, different profiles using different use cases (i.e. using their GPTs)</li>
+                </ul>
+            </li>
+            <li>Models become multi-modal, encompassing all types of data (sound, text, images).</li>
+            <li>More interfaces, not only text, to meet people where they are at in processing and creating knowledge</li>
+            <li>Smarter models. Expansion to be more helpful in other areas with harder tasks: mathematics, scientific discoveries</li>
+        </ul>
+    </li>
+</ul>
 
 
 
-## My two cents
+
+### My two cents
 
 In the usual setup, it is often seen that ML engineers would 'throw models over the fence' to product. However, it is important to incorporate this ML research process into your product development, so that you can iterate faster. Few additional points:
 - Make use of product/UX to reinforce your ML feedback loop! User input is valuable, especially when you have limited access to data and not know quantitatively what your AI boundaries are. This brings your ML engineers closer to your users and gets them the information to understand the user problems with the current AI.
