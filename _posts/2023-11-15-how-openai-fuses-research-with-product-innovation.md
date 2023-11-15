@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bridging gaps: how OpenAI fuses research with product innovation"
-date: 2023-11-15 08:00:00 +0000
+date: 2023-11-15 22:00:00 +0000
 categories: productmanagement, leadership
 excerpt: "OpenAI's blend of AI research and product innovation, and how this approach is shaping the future of user-focused, effective AI solutions. And some of my own takes."
 image: "/images/openai.png"
@@ -20,6 +20,7 @@ Keywords: AI, startup, research, product development, machine learning, OpenAI
 ## Key take-aways
 
 - What contributed to the popularity of ChatGPT?
+-
     - **General** **capabilities** of models, contrasting with traditional models that are highly task-specific
     - **Simple interfaces**. Meets users at their level of information processing and knowledge creation.
 - Research x Product collaboration
@@ -54,3 +55,5 @@ Thinking about foundational models, it will take some time before they are able 
 
 [^2]: In the healthcare domain, specific smaller tailored (BERT) models are still outperforming large language models: [Large language models in biomedical natural language processing: benchmarks, baselines, and recommendations](https://arxiv.org/ftp/arxiv/papers/2305/2305.16326.pdf)
 
+
+---
