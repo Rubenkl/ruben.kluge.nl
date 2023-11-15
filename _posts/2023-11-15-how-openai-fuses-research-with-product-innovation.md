@@ -47,7 +47,7 @@ Keywords: AI, startup, research, product development, machine learning, OpenAI
             <li>Technology driven - instead of focusing on the user problems. The capabilities of GPT didn't fit into the existing paradigms yet!</li>
         </ul>
     </li>
-    <li>The future
+    <li>The future of foundational models
         <ul>
             <li>AI models will be personalized to you
                 <ul>
@@ -66,10 +66,10 @@ Keywords: AI, startup, research, product development, machine learning, OpenAI
 
 In the usual setup, it is often seen that ML engineers would 'throw models over the fence' to product. However, it is important to incorporate this ML research process into your product development, so that you can iterate faster. Few additional points:
 - Make use of product/UX to reinforce your ML feedback loop! User input is valuable, especially when you have limited access to data and not know quantitatively what your AI boundaries are. This brings your ML engineers closer to your users and gets them the information to understand the user problems with the current AI.
-- Be focused on providing business value as soon as possible, and limit your research to the absolute necessities [^1]. From my experience, ML Engineers have the tendency to build the perfect AI, but depending on the scenario, 70% might be good enough. *('But Ruben, how?'' I will show you an example of an 'AI PRD' an how that should be different from a software oriented PRD soon! Feel free to reach out in the meantime)*
+- Be focused on providing business value as soon as possible, and limit your research to the absolute necessities [^1]. From my experience, ML Engineers have the tendency to build the perfect AI, but depending on the scenario, 70% might be good enough. *('But Ruben, how?' I will show you an example of an 'AI PRD' and how that should be different from a software oriented PRD soon! Feel free to reach out.)*
 
 
-Thinking about foundational models, it will take some time before they are able to tackle issues with expert-level knowledge, as we are not there yet [^2]. In the meantime, it is important to keep focusing on tailor-made solutions (be it 'traditional' deep learning or finetuned LLM), and to make sure to understand its weaknesses and strenghts. More often, most problems could be solved by wrapping some software functionalities around the model, catching and dealing with the AI weaknesses, resulting in an overall better performance and user experience. 
+Thinking about the future of foundational models, it will take some time before they are able to tackle issues with expert-level knowledge, as we are not there yet [^2]. In the meantime, it is important to keep focusing on tailor-made solutions (be it 'traditional' deep learning or finetuned LLM), and to make sure to understand its weaknesses and strenghts. More often, most problems could be solved by wrapping some software functionalities around the model, catching and dealing with the AI weaknesses, resulting in an overall better performance and user experience. 
 
 
 
