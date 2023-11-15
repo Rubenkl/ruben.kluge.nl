@@ -20,38 +20,22 @@ Keywords: AI, startup, research, product development, machine learning, OpenAI
 ## Key take-aways
 
 - What contributed to the popularity of ChatGPT?
-
-    - **General** **capabilities** of models, contrasting with traditional models that are highly task-specific
- 
-    - **Simple interfaces**. Meets users at their level of information processing and knowledge creation.
-  
+    - **General capabilities** of models, contrasting with traditional models that are highly task-specific
+    - **Simple interfaces**. Meets users at their level of information processing and knowledge creation.
 - Research x Product collaboration
-
-    - Direct feedback loop: Product provides a direct feedback loop for research, using UX features such as the thumbs up/thumbs down buttons.
-
-    - Importance of product input in making research more applicable and user-focused
-
-        - Work closely together, contrary to 'traditional' setups where ML engineers throw a model over the fence to product
-
+    - Direct feedback loop: Product provides a direct feedback loop for research, using UX features such as the thumbs up/thumbs down buttons.
+    - Importance of product input in making research more applicable and user-focused
+        - Work closely together, contrary to 'traditional' setups where ML engineers throw a model over the fence to product
 - Defining success
-
-    - There is lots of discussions around ambiguity.
-
-        - what if the model is worse in physics, but better in biology?
-
-        - What users want is subjective
-
+    - There is lots of discussions around ambiguity.
+        - what if the model is worse in physics, but better in biology?
+        - What users want is subjective
 - The future
-
-    - AI models will be personalized to you
-
-        - OpenAI already does this using custom instructions, different profiles using different use cases (i.e. using their GPTs)
-
-    - Models become multi-modal, encompassing all types of data (sound, text, images).
-
-    - More interfaces, not only text, to meet people where they are at in processing and creating knowledge
-
-    - Smarter models. Expansion to be more helpful in other areas with harder tasks: mathematics, scientific discoveries
+    - AI models will be personalized to you
+        - OpenAI already does this using custom instructions, different profiles using different use cases (i.e. using their GPTs)
+    - Models become multi-modal, encompassing all types of data (sound, text, images).
+    - More interfaces, not only text, to meet people where they are at in processing and creating knowledge
+    - Smarter models. Expansion to be more helpful in other areas with harder tasks: mathematics, scientific discoveries
 
 
 
