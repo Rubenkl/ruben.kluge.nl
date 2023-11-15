@@ -44,6 +44,7 @@ Keywords: AI, startup, research, product development, machine learning, OpenAI
                     <li>What users want is subjective</li>
                 </ul>
             </li>
+            <li>Technology driven - instead of focusing on the user problems. The capabilities of GPT didn't fit into the existing paradigms yet!</li>
         </ul>
     </li>
     <li>The future
@@ -59,8 +60,6 @@ Keywords: AI, startup, research, product development, machine learning, OpenAI
         </ul>
     </li>
 </ul>
-
-
 
 
 ### My two cents
