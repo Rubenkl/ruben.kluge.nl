@@ -1,12 +1,17 @@
-.reading-time {
+.meta {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+article header .reading-time {
     font-size: 0.9em;
-    color: rgba(255, 255, 255, 0.5);  /* Matches Massively theme's muted text color */
-    margin-left: 5px;
+    color: rgba(255, 255, 255, 0.5) !important;
     display: inline-block;
 }
 
 /* Optional hover effect */
-article:hover .reading-time {
-    color: rgba(255, 255, 255, 0.7);
+article:hover header .reading-time {
+    color: rgba(255, 255, 255, 0.7) !important;
     transition: color 0.2s ease;
 } 

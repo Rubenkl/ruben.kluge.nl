@@ -42,14 +42,16 @@
 						{% for post in site.posts %}
 							<article>
 								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
-									<span class="reading-time">
-										{% capture words %}
-											{{ post.content | strip_html | number_of_words }}
-										{% endcapture %}
-										{% assign reading_time = words | plus: 0 | divided_by: 200 | plus: 1 %}
-										• {{ reading_time }} min read
-									</span>
+									<div class="meta">
+										<span class="date">{{ post.date | date_to_string }}</span>
+										<span class="reading-time">
+											{% capture words %}
+												{{ post.content | strip_html | number_of_words }}
+											{% endcapture %}
+											{% assign reading_time = words | plus: 0 | divided_by: 200 | plus: 1 %}
+											• {{ reading_time }} min read
+										</span>
+									</div>
 									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 								</header>
 								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
