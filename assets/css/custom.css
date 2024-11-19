@@ -1,0 +1,12 @@
+.reading-time {
+    font-size: 0.9em;
+    color: rgba(255, 255, 255, 0.5);  /* Matches Massively theme's muted text color */
+    margin-left: 5px;
+    display: inline-block;
+}
+
+/* Optional hover effect */
+article:hover .reading-time {
+    color: rgba(255, 255, 255, 0.7);
+    transition: color 0.2s ease;
+} 
