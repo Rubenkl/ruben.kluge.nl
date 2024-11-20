@@ -64,20 +64,28 @@ sitemap:
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:3 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-  									</ul>
-  								</article>
-                {% endfor %}
-
+								{% for post in site.posts limit:6 %}
+									<article>
+										<header>
+											<div class="meta">
+												<span class="date">{{ post.date | date_to_string }}</span>
+												<span class="reading-time">
+													{% capture words %}
+														{{ post.content | strip_html | number_of_words }}
+													{% endcapture %}
+													{% assign reading_time = words | plus: 0 | divided_by: 200 | plus: 1 %}
+													• {{ reading_time }} min read
+												</span>
+											</div>
+											<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+										</header>
+										<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+										<p>{{ post.excerpt }}</p>
+										<ul class="actions">
+											<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+										</ul>
+									</article>
+								{% endfor %}
 							</section>
 
 						<!-- Footer -->
